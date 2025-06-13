@@ -7,6 +7,15 @@
 
 ## Task List
 1. Task 1 - Web Application Security Testing
+   - Objective: Test a sample web app for:
+        SQL Injection
+        XSS (Cross-site Scripting)
+        Authentication vulnerabilities
+
+   - Tools:
+        OWASP ZAP, Burp Suite, SQLMap
    - Description:
+        
    - Files:
-2. Task 2 – ...Loading
+      
+3. Task 2 – ...Loading
